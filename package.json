@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinhhung04/product_supplier.git"
+    "url": "git+https://github.com/VongDangKhoa/product_supplier_Done.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vinhhung04/product_supplier/issues"
+    "url": "https://github.com/VongDangKhoa/product_supplier_Done/issues"
   },
-  "homepage": "https://github.com/vinhhung04/product_supplier#readme",
+  "homepage": "https://github.com/VongDangKhoa/product_supplier_Done#readme",
   "dependencies": {
     "body-parser": "^2.2.0",
     "dotenv": "^17.2.2",
